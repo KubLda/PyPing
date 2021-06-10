@@ -7,7 +7,8 @@ This program is intended for
 - number of lost packets
 - graphical display of host availability in the form of an indicator
 It is possible to edit the hosts file from the program, add your own settings file
-**requirements**:
+
+**Requirements**:
 ```
 pip install pyside2
 ```
