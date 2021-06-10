@@ -18,5 +18,7 @@ pip3 install pyside2
 ```
 **For start**
 ```
+git clone https://github.com/KubLda/PyPing.git
+cd PyPing
 python3 start.py
 ```
