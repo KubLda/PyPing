@@ -11,6 +11,8 @@ It is possible to edit the hosts file from the program, add your own settings fi
 **Requirements**
 ```
 pip install pyside2
+or
+pip3 install pyside2
 ```
 **For start**
 ```
