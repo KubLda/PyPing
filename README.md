@@ -8,11 +8,11 @@ This program is intended for
 - graphical display of host availability in the form of an indicator
 It is possible to edit the hosts file from the program, add your own settings file
 
-**Requirements**:
+**Requirements**
 ```
 pip install pyside2
 ```
-**For start**:
+**For start**
 ```
 python3 start.py
 ```
