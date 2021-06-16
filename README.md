@@ -1,4 +1,4 @@
-# PyPing:
+# PyPing Gui* :
 
 This program is intended for
 - reflects the availability of the host on the network
