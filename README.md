@@ -10,6 +10,8 @@ This program is intended for
 - graphical display of host availability in the form of an indicator
 It is possible to edit the hosts file from the program, add your own settings file
 
+Defautl file for hist list .pyping_hosts.json
+
 **Requirements**
 ```
 pip install pyside6
