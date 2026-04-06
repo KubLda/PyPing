@@ -1,5 +1,7 @@
 # PyPing:
 
+<img width="366" height="619" alt="Screenshot" src="https://github.com/user-attachments/assets/d328d901-bb65-4a18-a365-946bcf81d747" />
+
 This program is intended for
 - reflects the availability of the host on the network
 - availability time
@@ -10,11 +12,11 @@ It is possible to edit the hosts file from the program, add your own settings fi
 
 **Requirements**
 ```
-pip install pyside2
+pip install pyside6
 ```
 or
 ```
-pip3 install pyside2
+pip3 install pyside6
 ```
 **For start**
 ```
